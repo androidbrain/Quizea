@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quizea</string>
+    <string name="sets">Sets</string>
+    <string name="options"><i>options</i></string>
+    <string name="question"><i>question</i></string>
+    <string name="answer"><i>answer</i></string>
+</resources>
